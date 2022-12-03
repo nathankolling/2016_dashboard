@@ -1,6 +1,6 @@
 gunicorn
-dash==2.7.0
-dash-core-components==2.0.0
-dash-html-components==2.0.0
-numpy==1.23.5
-catboost==1.1.1
+dash
+dash-core-components
+dash-html-components
+numpy
+catboost
